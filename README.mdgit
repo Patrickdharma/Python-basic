@@ -1,0 +1,2 @@
+"# Python-basic"  init
+"# Python-basic"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Patrickdharma/Python-basic.gitgit push -u origin master
